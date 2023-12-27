@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://levelup.gitconnected.com/secrets-of-the-single-responsibility-principle-5bbd341a335a?sk=15bda5fec8d51e70fa5be7ce212e7a10" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/secrets-of-the-single-responsibility-principle" />
 
 # Secrets of the Single Responsibility Principle
 ### Uncover the secrets about the Single Responsibility Principle (SRP) of the SOLID Principles.
 
 <p align="center">
-  <img src="https://miro.medium.com/max/828/1*T7hbB6PyaLCdtetwDaUAwg.webp">
+  <img src="https://static.wixstatic.com/media/488a99_dcc3865522584717978755975be19535~mv2.png">
 </p>
 
 <br/>
@@ -47,4 +47,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://levelup.gitconnected.com/secrets-of-the-single-responsibility-principle-5bbd341a335a?sk=15bda5fec8d51e70fa5be7ce212e7a10
+[Article]: https://www.developmentsimplyput.com/post/secrets-of-the-single-responsibility-principle
